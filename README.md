@@ -6,4 +6,5 @@ Para ejecutar el sistem, debes poner:
 '''npm install react'''
 Sistema de registro 2
 
-"vamos a incluir css" prueba git pull
+"vamos a incluir css" prueba git pull prueba en ubuntu fallida
+"vamos a incluir contacto" prueba de git pull en windows
